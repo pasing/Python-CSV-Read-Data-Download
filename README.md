@@ -1,6 +1,6 @@
 # Python-CSV-Read-Data-Download
 
-This script has been created for download data urls from csv file.
+This script has been created for read data urls from csv file and download a data file.
 
 **Usage:**
 
